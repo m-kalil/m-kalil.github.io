@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Professor da Faculdade de Odontologia na Universidade Federal Fluminense"
   location         : "Niterói, RJ"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Universidade Federal Fluminense"
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "m-kalil"
   google_plus      :
   keybase          :
   instagram        :

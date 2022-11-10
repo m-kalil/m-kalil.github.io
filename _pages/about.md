@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Página do professor Marcus da Veiga Kalil"
+title: "Página do professor Marcos da Veiga Kalil"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

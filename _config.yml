@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Marcus da Veiga Kalil"
+title                    : "Marcos da Veiga Kalil"
 title_separator          : "-"
-name                     : &name "Marcus da Veiga Kalil"
+name                     : &name "Marcos da Veiga Kalil"
 description              : &description "Professor da Faculdade de Odontologia na Universidade Federal Fluminense"
 url                      : https://m-kalil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marcus da Veiga Kalil"
+  name             : "Marcos da Veiga Kalil"
   avatar           : "profile.png"
   bio              : "Professor da Faculdade de Odontologia na Universidade Federal Fluminense"
   location         : "Niterói, RJ"

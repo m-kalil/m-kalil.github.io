@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Página em construção
+Livro para download: [Manual de Iniciação Científica](/files/manual_de_iniciacao_cientifica.pdf)

@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Livro para download: [Manual de Iniciação Científica](/files/manual_de_iniciacao_cientifica.pdf)
+Livro para download: [Manual de Iniciação Científica](https://m-kalil.github.io/files/manual_de_iniciacao_cientifica.pdf){:target="_blank"}

@@ -9,6 +9,5 @@ redirect_from:
 ---
 
 Materiais para _download_:
-Livro para dowanload: [Manual de Iniciação Científica](https://m-kalil.github.io/files/manual_de_iniciacao_cientifica.pdf){:target="_blank"}
-
-Apostila para download: [Apostila Introdutória de Formação na Iniciação Científica](https://m-kalil.github.io/files/apostila_iniciacao_cientifica.pdf){:target="_blank"}
+- [Manual de Iniciação Científica](https://m-kalil.github.io/files/manual_de_iniciacao_cientifica.pdf){:target="_blank"}
+- [Apostila Introdutória de Formação na Iniciação Científica](https://m-kalil.github.io/files/apostila_iniciacao_cientifica.pdf){:target="_blank"}

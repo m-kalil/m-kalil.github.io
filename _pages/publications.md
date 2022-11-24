@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2010
-- [A avaliação da variabilidade das medidas produzidas pelo método radiográfico digital comparadas ao método radiográfico convencional](https://periodicos.uff.br/ijosd/article/view/30466/17700)
+- [A avaliação da variabilidade das medidas produzidas pelo método radiográfico digital comparadas ao método radiográfico convencional](https://periodicos.uff.br/ijosd/article/view/30466/){:target="_blank"}
 
 <!--
 

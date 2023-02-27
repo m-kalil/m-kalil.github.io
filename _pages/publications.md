@@ -32,13 +32,13 @@ author_profile: true
 
 
 ## 2012
-- [https://periodicos.uff.br/ijosd/article/view/30362/17597](https://periodicos.uff.br/ijosd/article/view/30362/17597){:target="_blank"}
+- [Enxerto ósseo particulado aplicado à implantodontia](https://periodicos.uff.br/ijosd/article/view/30362/17597){:target="_blank"}
 
-- [https://periodicos.uff.br/ijosd/article/view/30367/17602](https://periodicos.uff.br/ijosd/article/view/30367/17602){:target="_blank"}
+- [O uso do silicone na odontologia](https://periodicos.uff.br/ijosd/article/view/30367/17602){:target="_blank"}
 
 
 ## 2011
-- - [https://periodicos.uff.br/ijosd/article/view/30339/17574](https://periodicos.uff.br/ijosd/article/view/30339/17574){:target="_blank"}
+- [Avaliação da atibidade antimicrobiana do MTA e cimento Portland em cepas de Enterococcus faecalis e Pseudomonas Aeruginosa](https://periodicos.uff.br/ijosd/article/view/30339/17574){:target="_blank"}
 
 
 ## 2010

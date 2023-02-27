@@ -38,7 +38,7 @@ author_profile: true
 
 
 ## 2011
-- [Avaliação da atibidade antimicrobiana do MTA e cimento Portland em cepas de Enterococcus faecalis e Pseudomonas Aeruginosa](https://periodicos.uff.br/ijosd/article/view/30339/17574){:target="_blank"}
+- [Avaliação da atividade antimicrobiana do MTA e cimento Portland em cepas de Enterococcus faecalis e Pseudomonas Aeruginosa](https://periodicos.uff.br/ijosd/article/view/30339/17574){:target="_blank"}
 
 
 ## 2010

@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+
+[![Watch the video](https://github.com/m-kalil/m-kalil.github.io/blob/master/images/WhatsApp%20Image%202024-01-03%20at%2014.02.35.jpeg?raw=true)](https://youtu.be/vt5fpE0bzSY)
+
 Materiais para _download_:
 - [Manual de Iniciação Científica](https://m-kalil.github.io/files/manual_de_iniciacao_cientifica.pdf){:target="_blank"}
 - [Apostila Introdutória de Formação na Iniciação Científica](https://m-kalil.github.io/files/apostila_iniciacao_cientifica.pdf){:target="_blank"}
